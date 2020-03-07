@@ -1,1 +1,1 @@
-{"version":1,"ops":[{"type":1,"author":{"id":"dfc9d482bd8af2daf0126e110e948635302c5dd7"},"timestamp":1583621659,"metadata":{"github-id":"MDU6SXNzdWU1Nzc0MTMwODU=","github-url":"https://github.com/qcu/mdp/issues/1","origin":"github"},"title":"feature request - new viewer command 'e' to edit source and reload","message":"feature request - new viewer command 'e' to edit source in vim and reload current page","files":null}]}
+{"version":1,"ops":[{"type":5,"author":{"id":"dfc9d482bd8af2daf0126e110e948635302c5dd7"},"timestamp":1583623045,"added":["enhancement"],"removed":null}]}
